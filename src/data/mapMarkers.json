@@ -1,0 +1,130 @@
+[
+  {
+    "lat": "60.295",
+    "lng": "25.306",
+    "title": "Football field",
+    "description": "Huge open field, river close by.",
+    "features": ["trees", "water", "crops", "micro", "mini"],
+    "videoLinks": [
+      "https://www.youtube.com/watch?v=UtTZWqvdqEM",
+      "https://www.youtube.com/watch?v=n5DbKtNUf7o",
+      "https://www.youtube.com/watch?v=TkdUIZi9ay8"
+    ],
+    "photoLinks": [
+      "https://www.instagram.com/p/BpXrDG6nwkM",
+      "https://www.instagram.com/p/BpXq9rkne7j",
+      "https://www.instagram.com/p/BpXrA2fHTEA",
+      "https://www.instagram.com/p/Bpeq0fkHIMh"
+    ],
+    "author": "Jumpalottahigh"
+  },
+  {
+    "lat": "60.288",
+    "lng": "25.317",
+    "title": "Harbor and field",
+    "description": "Huge open field, harbor close by.",
+    "features": ["trees", "water", "crops", "mini"],
+    "videoLinks": [
+      "https://www.youtube.com/watch?v=70tXXAfs-ks",
+      "https://www.youtube.com/watch?v=p_OVnSWcVzU"
+    ],
+    "photoLinks": [
+      "https://www.instagram.com/p/BpaTx_gHQEc",
+      "https://www.instagram.com/p/BpaT23bn8aI",
+      "https://www.instagram.com/p/BpaT5i5HSOJ"
+    ],
+    "author": "Jumpalottahigh"
+  },
+  {
+    "lat": "60.3933",
+    "lng": "25.607",
+    "title": "Porvo FPV race track",
+    "description": "Club FPV race track.",
+    "features": ["trees", "crops", "micro", "mini"],
+    "videoLinks": [
+      "https://www.youtube.com/watch?v=geXnCoNvBPk",
+      "https://www.youtube.com/watch?v=WSS3_00TVT8"
+    ],
+    "photoLinks": [
+      "https://www.instagram.com/p/BpepsQYHSmV",
+      "https://www.instagram.com/p/BpepkB9nHfj"
+    ],
+    "author": "Jumpalottahigh"
+  },
+  {
+    "lat": "60.2644395",
+    "lng": "25.2032662",
+    "title": "Field near stable",
+    "description": "Huge open field close to a stable, surrounder by forest and near a highway (but not too near)",
+    "features": ["trees", "crops", "mini"],
+    "videoLinks": ["https://www.youtube.com/watch?v=g9CZeOO2yjw"],
+    "photoLinks": [
+      "https://www.instagram.com/p/BpeliQqH3bD",
+      "https://www.instagram.com/p/Bpel8v6nhtR"
+    ],
+    "author": "Jumpalottahigh"
+  },
+  {
+    "lat": "60.225339",
+    "lng": "24.799384",
+    "title": "Leppavaara park open fields",
+    "description": "Huge open fields next to a small football field and a park.",
+    "features": ["trees", "crops", "mini"],
+    "videoLinks": [""],
+    "photoLinks": [""],
+    "author": "Jumpalottahigh"
+  },
+  {
+    "lat": "60.1616957",
+    "lng": "24.9105249",
+    "title": "Ruoholahti park",
+    "description": "Very small mini park close to a daycare playground. Good for micros only.",
+    "features": ["trees", "water", "micro"],
+    "videoLinks": [
+      "https://www.youtube.com/watch?v=euq1b4cHLAc",
+      "https://www.youtube.com/watch?v=2uUvhZCnxKk",
+      "https://www.youtube.com/watch?v=F6gXNQNMXDU"
+    ],
+    "photoLinks": [
+      "https://www.instagram.com/p/BpesVYon3hb",
+      "https://www.instagram.com/p/BpesSz1ndXi",
+      "https://www.instagram.com/p/BpesQhhnwGb"
+    ],
+    "author": "Jumpalottahigh"
+  },
+  {
+    "lat": "60.306075",
+    "lng": "25.3887936",
+    "title": "Field near Sipoo school yard",
+    "description": "Many, really huge open fields near a school playground. Some trees and a basketball court for diversity.",
+    "features": ["trees", "crops", "mini"],
+    "videoLinks": [
+      "https://www.youtube.com/watch?v=aASDUpVy3zM",
+      "https://www.youtube.com/watch?v=dd4Ou1v3DWg"
+    ],
+    "photoLinks": [
+      "https://www.instagram.com/p/BpaWYt_HBWu",
+      "https://www.instagram.com/p/BpaWbU_nK_Q",
+      "https://www.instagram.com/p/BpaWedhnVsu",
+      "https://www.instagram.com/p/BpaWhm4nVZX",
+      "https://www.instagram.com/p/BpaWl6VnnVN"
+    ],
+    "author": "Jumpalottahigh"
+  },
+  {
+    "author": "@No_CQRT",
+    "description": "Indoor/outdoor Place for FPV race and practice; inside the \"volandia\" museum",
+    "features": ["urban", "micro", "mini"],
+    "lat": "45.63065808225107",
+    "lng": "8.70668099344141",
+    "title": "Volandia terminal3"
+  },
+  {
+    "author": "",
+    "description": "Mix of different sporting fields with light trees and structures around",
+    "features": ["trees", "urban", "micro", "mini"],
+    "lat": "42.36579260744509",
+    "lng": "-71.13020886529358",
+    "title": "Harvard Practice Fields"
+  }
+]

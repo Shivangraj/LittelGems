@@ -1,0 +1,86 @@
+[
+  {
+    "title": "How to get involved?",
+    "content": [
+      "It's still early days and all help is very appreciated. Some of the easiest ways to contribute are:"
+    ],
+    "color": "#000",
+    "bgcolor": "#fff",
+    "video": "https://www.youtube.com/watch?v=yJbo2Nqh6IM",
+    "buttons": [
+      {
+        "link": "/dictionary/",
+        "label": "Submit a dictionary item",
+        "variant": "contained",
+        "color": "primary",
+        "minWidth": "240px"
+      },
+      {
+        "link": "/fpv-map/",
+        "color": "primary",
+        "label": "Submit a FPV spot"
+      }
+    ]
+  },
+  {
+    "title": "What is FPV?",
+    "content": [
+      "FPV means First Person View and refers to the perspective or point of view when flying a FPV freestyle or a racing drone (quadcopter). Pilots use goggles to receive a live video feed, transmitted from the drone's camera which also translates into a 'flying from the cockpit' feeling.",
+      "As a broader term, FPV is an awesome fast-paced hobby, allowing you to fly drones (quads), planes, wings using a radio transmitter and enjoying the out of body experience through the first person view camera.",
+      "Have a look at this video to get an idea, but don't let my poor flying skills fool you and definitely checkout some of these excellent, excellent pilots:"
+    ],
+    "color": "#000",
+    "bgcolor": "#fff",
+    "video": "https://www.youtube.com/watch?v=W_TeQMJbjgM",
+    "buttons": [
+      {
+        "link": "https://www.youtube.com/user/MrSteeledavis",
+        "external": true,
+        "label": "Mr Steele",
+        "variant": "text",
+        "color": "primary",
+        "minWidth": "240px"
+      },
+      {
+        "link": "https://www.youtube.com/channel/UCHxiKnzTyzE9Qez8ZGpQbPQ",
+        "external": true,
+        "label": "Le Drib",
+        "variant": "text",
+        "color": "primary",
+        "minWidth": "240px"
+      },
+      {
+        "link": "https://www.youtube.com/user/loraan",
+        "external": true,
+        "label": "Joshua Bardwell",
+        "variant": "text",
+        "color": "primary",
+        "minWidth": "240px"
+      },
+      {
+        "link": "https://www.youtube.com/channel/UC3ioIOr3tH6Yz8qzr418R-g",
+        "external": true,
+        "label": "Stew (UAVfutures)",
+        "variant": "text",
+        "color": "primary",
+        "minWidth": "240px"
+      }
+    ]
+  },
+
+  {
+    "title": "Why fly FPV and who is this for?",
+    "content": [
+      "Cause it's fun! And it's for everyone! No, seriously! FPV is fun and can be enjoyed by people of all ages. There are all sorts of drones - from the most timid micros to the fastest beasts that punch a whole in the sky™ (Stew)."
+    ],
+    "bgimage": "data:image/svg+xml;base64,77u/PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMTknIGhlaWdodD0nMTE5JyB2aWV3Qm94PScwIDAgMjAwIDIwMCc+PHJlY3QgZmlsbD0nI2ZmZmZmZicgd2lkdGg9JzIwMCcgaGVpZ2h0PScyMDAnLz48cG9seWdvbiBmaWxsPScjRENFRkZBJyBmaWxsLW9wYWNpdHk9JzAuMTEnIHBvaW50cz0nMTAwIDAgMCAxMDAgMTAwIDEwMCAxMDAgMjAwIDIwMCAxMDAgMjAwIDAnLz48L3N2Zz4="
+  },
+  {
+    "title": "Where does FPVTIPS fit in?",
+    "content": [
+      "FPVTIPS wants to be there when you need information. The maybe one slight downside of the hobby is that it could seem a bit intimidating at first. Don't worry though, it's not that hard and no, you don't need to know all the stuff.",
+      "It would be nice to have a place to search for beginner friendly information. It would also be nice to find easily the exact answers to your questions. Enter, FPVTIPS!"
+    ],
+    "bgimage": "data:image/svg+xml;base64,77u/PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMTknIGhlaWdodD0nMTE5JyB2aWV3Qm94PScwIDAgMjAwIDIwMCc+PHJlY3QgZmlsbD0nI2ZmZmZmZicgd2lkdGg9JzIwMCcgaGVpZ2h0PScyMDAnLz48cG9seWdvbiBmaWxsPScjRENFRkZBJyBmaWxsLW9wYWNpdHk9JzAuMTEnIHBvaW50cz0nMTAwIDAgMCAxMDAgMTAwIDEwMCAxMDAgMjAwIDIwMCAxMDAgMjAwIDAnLz48L3N2Zz4="
+  }
+]
